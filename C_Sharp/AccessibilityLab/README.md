@@ -1,0 +1,1 @@
+Quick clarification: This lab on access modifiers is based on the InheritanceLab code.

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3284bc60-f8c1-4229-9b12-01eeceb21fe9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1niXxH7QzeI1VriE89AJQ7SRFrB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3284bc60-f8c1-4229-9b12-01eeceb21fe9" name="Default Changelist" comment="" />
+      <created>1611874132569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611874132569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="261" key="FileChooserDialogImpl" timestamp="1611874190044">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="747" y="261" key="FileChooserDialogImpl/-3840.0.1707.942/0.0.2560.1040@0.0.2560.1040" timestamp="1611874190044" />
+    <state x="350" y="140" key="new project wizard" timestamp="1611874242621">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="350" y="140" key="new project wizard/-3840.0.1707.942/0.0.2560.1040@0.0.2560.1040" timestamp="1611874242621" />
+  </component>
+</project>
